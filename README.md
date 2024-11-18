@@ -1,4 +1,4 @@
-# Rainbow Spinner Game
+# Rainbow Spinner 🌈🌈🌈🌈
 This project is a fun terminal-based "Rainbow Spinner" that cycles through colorful loading animations. It’s a simple yet visually engaging application that shows a spinning loader with text that changes its color every 500 milliseconds, simulating a "loading rainbows" effect.
 
 # How It Works
